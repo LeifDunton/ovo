@@ -17,9 +17,6 @@ A feature rich, gui integrated OvO mod menu.
 - General settings
 - Profiles
 
-#
-Ideas? Questions? Bug reports? Contact me via Discord at '.awesomeguy.'
-
  ## 
  Not affliated with [Dedra Games](https://dedragames.com/)
 
